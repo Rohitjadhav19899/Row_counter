@@ -11,8 +11,8 @@ body {
 
 .container1 {
     background: white;
-    max-width: 50%;
-	height: 18%;
+    max-width: 70%;
+	height: 20%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
@@ -20,8 +20,8 @@ body {
 
 .container2 {
     background: rgb(131, 131, 131);
-    max-width: 50%;
-	height: 18%;
+    max-width: 70%;
+	height: 20%;
     margin: auto;
     border: 3px solid rgb(255, 255, 255);
     border-radius: 10px;
@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-    font-size: 50px;
+    font-size: 100px;
     margin-top: 0;
     margin-bottom: 20px;
 }
