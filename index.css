@@ -12,7 +12,7 @@ body {
 .container1 {
     background: white;
     max-width: 70%;
-	height: 30%;
+	height: 50%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
@@ -21,7 +21,7 @@ body {
 .container2 {
     background: rgb(131, 131, 131);
     max-width: 70%;
-	height: 30%;
+	height: 50%;
     margin: auto;
     border: 3px solid rgb(255, 255, 255);
     border-radius: 10px;
